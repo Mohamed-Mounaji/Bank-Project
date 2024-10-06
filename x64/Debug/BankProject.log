@@ -1,0 +1,7 @@
+﻿  BankProject.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course7Projects\BankProject\BankProject.cpp(136,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course7Projects\BankProject\BankProject.cpp(289,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course7Projects\BankProject\BankProject.cpp(686,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course7Projects\BankProject\BankProject.cpp(789,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course7Projects\BankProject\BankProject.cpp(82): warning C4715: 'ReadNumInRange': not all control paths return a value
+  BankProject.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course7Projects\BankProject\x64\Debug\BankProject.exe
